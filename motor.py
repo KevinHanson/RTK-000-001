@@ -9,7 +9,7 @@ print 'Motor 2 = Pins 22 and 23'
 GPIO.setup(17, GPIO.OUT)
 GPIO.setup(18, GPIO.OUT)
 GPIO.setup(22, GPIO.OUT)
-GPIO.setup(23, GPIO.OUT)a
+GPIO.setup(23, GPIO.OUT)
 
 
 
